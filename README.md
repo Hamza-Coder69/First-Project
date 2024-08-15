@@ -35,3 +35,6 @@ TO FINALLY COMMIT CHANGES WRITE ON TERMINAL git commit -m "some message"
 TO PUSH ON REMOTE (MEANS ON GITHUB) USE PUSH COMMAND (LOCAL REPO CONTENT TO REMOTE REPO write git push origin main ) THEN YOUR CHANGES FINALLY COMMITTED ON GITHUB ALSO
 <br>
 8/15/2024
+<br>
+To come outside of the folder use cd .. command
+<br>
