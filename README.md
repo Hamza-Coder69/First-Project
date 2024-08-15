@@ -38,3 +38,5 @@ TO PUSH ON REMOTE (MEANS ON GITHUB) USE PUSH COMMAND (LOCAL REPO CONTENT TO REMO
 <br>
 To come outside of the folder use cd .. command
 <br>
+To make a new folder through terminal use mkdir (Folder name with out brackets)
+<br>
