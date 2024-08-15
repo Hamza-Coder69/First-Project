@@ -40,3 +40,5 @@ To come outside of the folder use cd .. command
 <br>
 To make a new folder through terminal use mkdir (Folder name with out brackets)
 <br>
+To add new directory to git write command git init 
+<br>
